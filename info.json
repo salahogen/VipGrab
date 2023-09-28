@@ -24,4 +24,9 @@
    "devices": ["SM-A045F3AF6B5E66074752D"],
    "expiry": "31-10-2023 12:59 AM"
  },
+  "yohanes333": {
+   "password": "$2y$12$2J2YOehzbINr43xOX5XUzux7MwYGYm/VJmoC/hfxq14OcgbCc2Ppu",
+   "devices": ["VIVO18197E55F21A2F41EBAB"],
+   "expiry": "27-10-2023 12:00 PM"
+ },
 }
