@@ -29,4 +29,9 @@
    "devices": ["VIVO18197E55F21A2F41EBAB"],
    "expiry": "27-10-2023 12:00 PM"
  },
+  "zaim2222": {
+   "password": "$2y$12$xlIe4IzYR6j4rxWqMGipmefftc4m1V.zW7oUjbdMjhaLLdQy7qWTW",
+   "devices": ["M2003J15SCBE7481770D2F9326"],
+   "expiry": "26-10-2023 12:00 PM"
+ },
 }
