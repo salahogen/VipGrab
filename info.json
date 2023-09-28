@@ -19,4 +19,9 @@
    "devices": ["INFINIXX6812B22064944D2A16592"],
    "expiry": "25-10-2023 12:59 AM"
  },
+  "denicabul": {
+   "password": "$2y$12$EC/D3Eq8k3u5qBdEQpUCnOXSxw/bp3z68ks1QWrCfIjrri47fjelG",
+   "devices": ["SM-A045F3AF6B5E66074752D"],
+   "expiry": "31-10-2023 12:59 AM"
+ },
 }
