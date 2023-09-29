@@ -39,4 +39,9 @@
    "devices": ["M2003J15SCBE7481770D2F9326"],
    "expiry": "26-10-2023 12:00 PM"
  },
+  "kuncrit333": {
+   "password": "$2y$12$9jhxRV.qAC2BWw6jm4w3PeRBiVViTu5jMAWvoAWnmD3XTTiNiJk1e",
+   "devices": ["REDMINOTE9PRO33BD40CECC02890A"],
+   "expiry": "31-10-2023 12:00 PM"
+ },
 }
