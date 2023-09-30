@@ -9,6 +9,11 @@
    "devices": ["CPH212728F4B806FD3B8183"],
    "expiry": "30-10-2023 12:00 PM"
  },
+  "tjan5656": {
+   "password": "$2y$12$J8tekcUhQXYta/lR/7MhfOgj5LlYCLyvMNi5JoGYeAR7Rdwj/XHJC",
+   "devices": ["220333QAGB10ADF6F1EC042DB"],
+   "expiry": "31-10-2023 12:00 PM"
+ },
   "wiwik4545": {
    "password": "$2y$12$DCO9HdOA.9k/dH9h6NcU.eipMFNVBU.ko9x6Z2xI7f0dKwp8V7JJC",
    "devices": ["M2101K7BNYA7702C549E9E758B"],
