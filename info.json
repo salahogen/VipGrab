@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C","REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRO432066E0BD513671","REDMINOTE9PRO2A87AA8755F47632"],
    "expiry": "04-09-2024 12:59 AM"
  },
+  "tes7171717": {
+   "password": "$2y$12$BACPz.6vQq6b2pLBxSZ4puqH.O3sMsClJbZXBnklk/pKiJsUDAw7y",
+   "devices": ["2201117TYFD369CE5928DBD4B"],
+   "expiry": "07-10-2023 12:00 PM"
+ },
   "dwinanto": {
    "password": "$2y$12$aGo1tgjIr9x54yimsnVj.uwxcw.QTTD5CowbXbnTblloGJBl0Vweq",
    "devices": ["SM-A515F0F03018732E9609A"],
