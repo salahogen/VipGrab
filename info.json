@@ -9,11 +9,6 @@
    "devices": ["REDMINOTE73DB709BED21BE852"],
    "expiry": "07-11-2023 12:00 PM"
  },
-  "tes7171717": {
-   "password": "$2y$12$BACPz.6vQq6b2pLBxSZ4puqH.O3sMsClJbZXBnklk/pKiJsUDAw7y",
-   "devices": ["V2029866938F4742E6630","REDMINOTE4X3CD60EFE1012792C","2201117TYFD369CE5928DBD4B"],
-   "expiry": "07-10-2023 12:00 PM"
- },
   "dwinanto": {
    "password": "$2y$12$aGo1tgjIr9x54yimsnVj.uwxcw.QTTD5CowbXbnTblloGJBl0Vweq",
    "devices": ["SM-A515F0F03018732E9609A"],
@@ -56,7 +51,7 @@
  },
   "aditcoco3": {
    "password": "$2y$12$o/pNeipD0Psr0sgfAKNfcO32n4bni1D/LNqhcWVU9vDMwxBkTuD4G",
-   "devices": ["M2006C3MG7488A05C05E1C7E6","M2006C3MGBB9374ED032A0BA3"],
+   "devices": ["REDMI8APROACC5E6ADFBDCA6EB"],
    "expiry": "30-10-2023 12:59 AM"
  },
   "denicabul": {
@@ -78,10 +73,5 @@
    "password": "$2y$12$xlIe4IzYR6j4rxWqMGipmefftc4m1V.zW7oUjbdMjhaLLdQy7qWTW",
    "devices": ["M2003J15SCBE7481770D2F9326"],
    "expiry": "26-10-2023 12:00 PM"
- },
-  "kuncrit333": {
-   "password": "$2y$12$9jhxRV.qAC2BWw6jm4w3PeRBiVViTu5jMAWvoAWnmD3XTTiNiJk1e",
-   "devices": ["REDMINOTE9PRO33BD40CECC02890A"],
-   "expiry": "31-10-2023 12:00 PM"
  },
 }
