@@ -34,6 +34,11 @@
    "devices": ["REDMINOTE7803B72261FB72EDB"],
    "expiry": "07-11-2023 12:00 PM"
  },
+  "shiddiq22": {
+   "password": "$2y$12$uHzT2aLimCtzrWdVOk7yvONyoDpLxRcwyIO8QKA.b8IeBLL5Nri8m",
+   "devices": ["M2006C3LG3B0EE0BAC759005B"],
+   "expiry": "18-11-2023 12:00 PM"
+ },
   "dwinanto": {
    "password": "$2y$12$aGo1tgjIr9x54yimsnVj.uwxcw.QTTD5CowbXbnTblloGJBl0Vweq",
    "devices": ["SM-A515F0F03018732E9609A"],
