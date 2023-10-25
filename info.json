@@ -39,16 +39,6 @@
    "devices": ["M2006C3LG3B0EE0BAC759005B"],
    "expiry": "18-11-2023 12:00 PM"
  },
-  "dwinanto": {
-   "password": "$2y$12$aGo1tgjIr9x54yimsnVj.uwxcw.QTTD5CowbXbnTblloGJBl0Vweq",
-   "devices": ["SM-A515F0F03018732E9609A"],
-   "expiry": "12-10-2023 12:00 PM"
- },
-  "kholil66": {
-   "password": "$2y$12$tBaLWSX561QTb26FQSdZeeYUjIOFNsrIDkCRzceA.SriD59o.MGym",
-   "devices": ["M2010J19SG40AF687F3DACB99F"],
-   "expiry": "07-10-2023 12:00 PM"
- },
   "manurung66": {
    "password": "$2y$12$fEeftNJr1UcKmPuVPLtpZefxWwMHUZTGQeFc84ep8xECYjXBSCaf2",
    "devices": ["VIVO19383B0B142C9C987C0A"],
