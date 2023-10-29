@@ -39,11 +39,6 @@
    "devices": ["M2006C3LG3B0EE0BAC759005B"],
    "expiry": "18-11-2023 12:00 PM"
  },
-  "manurung66": {
-   "password": "$2y$12$fEeftNJr1UcKmPuVPLtpZefxWwMHUZTGQeFc84ep8xECYjXBSCaf2",
-   "devices": ["VIVO19383B0B142C9C987C0A"],
-   "expiry": "07-10-2023 12:00 PM"
- },
   "hafid3737": {
    "password": "$2y$12$/AY1vHlG7z6kRCKieCsUJu0C42GcTK73iHZL6uJHhVAWC8KFzplXe",
    "devices": ["REDMINOTE747D7238998A9F8F3"],
@@ -78,20 +73,5 @@
    "password": "$2y$12$d6OkhKPhCGy9O8/8A169JO5b4OIG2EfbQqOvDeKl8Pp3eLPpHo0IO",
    "devices": ["SM-A045F3AF6B5E66074752D","SM-A045F0FAD7688C5C1AD21"],
    "expiry": "31-10-2023 12:59 AM"
- },
-  "SONY1234": {
-   "password": "$2y$12$FWHtDVMe5mQf5I2RAEbZKezgTRvVfmmAsBvzeDUHwwRapThn3F5We",
-   "devices": ["INFINIXX6812B22064944D2A16592"],
-   "expiry": "25-10-2023 12:59 AM"
- },
-  "yohanes333": {
-   "password": "$2y$12$2J2YOehzbINr43xOX5XUzux7MwYGYm/VJmoC/hfxq14OcgbCc2Ppu",
-   "devices": ["VIVO18197E55F21A2F41EBAB"],
-   "expiry": "27-10-2023 12:00 PM"
- },
-  "zaim2222": {
-   "password": "$2y$12$xlIe4IzYR6j4rxWqMGipmefftc4m1V.zW7oUjbdMjhaLLdQy7qWTW",
-   "devices": ["M2003J15SCBE7481770D2F9326"],
-   "expiry": "26-10-2023 12:00 PM"
  },
 }
