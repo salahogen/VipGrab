@@ -19,20 +19,10 @@
    "devices": ["M2101K6GD167D8C7BFEB5EA2"],
    "expiry": "02-12-2023 12:00 PM"
  },
-  "klepograb": {
-   "password": "$2y$12$XTPI9CE5R1czCKnwaRmiTuCnlat30xELWXursvSr/dj5Du/0oIheO",
-   "devices": ["INFINIXX6920FE00B5B55C233B8"],
-   "expiry": "13-11-2023 12:00 PM"
- },
   "jake3737": {
    "password": "$2y$12$haATeotZoScgoj9HM12K6.zh3ZNVd8fGFh7Q0rW9vB3GdKZ25.9tq",
    "devices": ["21121119SG58CC47CCDCD6A3D9"],
    "expiry": "13-12-2023 12:00 PM"
- },
-  "test282828": {
-   "password": "$2y$12$jFLl6NAjAwbG2SygBQ41Ve..lgHAO1us0GhKIai4YOfr6brscchZK",
-   "devices": ["REDMINOTE800FE14B84647A666"],
-   "expiry": "12-11-2023 12:00 PM"
  },
   "grabLosdoL": {
    "password": "$2y$12$FMa0/r7cHlfwUlNtbMFgneDXzCTY7d.WdIjAT9E/s.hptKFwGN11m",
@@ -43,36 +33,6 @@
    "password": "$2y$12$9ozAzz/LzssMtkaPIRCNf.6qOI5xTuGWmHpSV50mD8ftwibVw0OXO",
    "devices": ["M2006C3LG60E76E22BD63C1C1","REDMINOTE8PROC19AD372339EDE1F"],
    "expiry": "08-12-2023 12:00 PM"
- },
-  "resrescrot": {
-   "password": "$2y$12$jgDwPqY16jVfDh9g4FzAC.G6wPsdHDZvxzMIl9rvohOVWHxqDc1yC",
-   "devices": ["REDMINOTE79C3CCC72411D9EAB"],
-   "expiry": "07-11-2023 12:00 PM"
- },
-  "shiddiq22": {
-   "password": "$2y$12$uHzT2aLimCtzrWdVOk7yvONyoDpLxRcwyIO8QKA.b8IeBLL5Nri8m",
-   "devices": ["M2006C3LGFA7585F06A5192BD"],
-   "expiry": "18-11-2023 12:00 PM"
- },
-  "hafid3737": {
-   "password": "$2y$12$/AY1vHlG7z6kRCKieCsUJu0C42GcTK73iHZL6uJHhVAWC8KFzplXe",
-   "devices": ["REDMINOTE747D7238998A9F8F3"],
-   "expiry": "04-11-2023 12:59 AM"
- },
-  "grab31022": {
-   "password": "$2y$12$I/ddXec8wXpqYdmQtykPV.y7m1omSJBysNMvaI3zWpTGVSTLPWCLu",
-   "devices": ["MI9TPRO0D69D44EB75FE8BD","REDMINOTE797525B8B5523285A"],
-   "expiry": "03-11-2023 12:00 PM"
- },
-  "klepo4545": {
-   "password": "$2y$12$AwiiMA/kn9tzFxKNRysSveiFe1kPo3l6ccxwU/XXsZW9Rb5XPk/tK",
-   "devices": ["SM-J415F0BEF20D1EB2377B6"],
-   "expiry": "01-11-2023 12:00 PM"
- },
-  "tjan5656": {
-   "password": "$2y$12$J8tekcUhQXYta/lR/7MhfOgj5LlYCLyvMNi5JoGYeAR7Rdwj/XHJC",
-   "devices": ["220333QAGB10ADF6F1EC042DB"],
-   "expiry": "31-10-2023 12:00 PM"
  },
   "wiwik4545": {
    "password": "$2y$12$DCO9HdOA.9k/dH9h6NcU.eipMFNVBU.ko9x6Z2xI7f0dKwp8V7JJC",
