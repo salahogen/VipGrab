@@ -17,7 +17,7 @@
   "wiwik612": {
    "password": "$2y$12$FVMmfOXE6BSJhtKWj.RE3uVV3bAaM.vqia9.CBYOL/0MnOeihWqZe",
    "devices": ["SM-A730F17DDAD5F43103A10"],
-   "expiry": "06-12-2023 12:00 PM"
+   "expiry": "07-01-2024 12:00 PM"
 },
   "roby0212": {
    "password": "$2y$12$8OMU1dhmz8WcHAup04YMu.zyJvZnolklZXuFJgoB6g0gHl/Y1eerO",
@@ -38,11 +38,6 @@
    "password": "$2y$12$9ozAzz/LzssMtkaPIRCNf.6qOI5xTuGWmHpSV50mD8ftwibVw0OXO",
    "devices": ["REDMINOTE8PRO0DCDA0C6C5315CFF"],
    "expiry": "08-01-2024 12:00 PM"
- },
-  "wiwik4545": {
-   "password": "$2y$12$DCO9HdOA.9k/dH9h6NcU.eipMFNVBU.ko9x6Z2xI7f0dKwp8V7JJC",
-   "devices": ["M2101K7BNYA7702C549E9E758B"],
-   "expiry": "29-11-2023 12:59 PM"
  },
   "aditcoco3": {
    "password": "$2y$12$o/pNeipD0Psr0sgfAKNfcO32n4bni1D/LNqhcWVU9vDMwxBkTuD4G",
