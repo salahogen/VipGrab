@@ -19,26 +19,6 @@
    "devices": ["M2102J20SGE9C3462AAE4A61C8"],
    "expiry": "24-03-2024 12:00 PM"
 },
-  "Wiwik612": {
-   "password": "$2y$12$sIr1WVhELARauXBWNE2U7uTkjszIQ3/N1zGoLvuAjvm7TSPj4BLVm",
-   "devices": ["2201117TY56A607D60CE5ACD4"],
-   "expiry": "25-02-2024 12:00 PM"
-},
-  "manurung2882": {
-   "password": "$2y$12$GMhCAiHC8EBSt2RROj/goO.irWtgGWbhHdOFTt4fNuEJT.yhnqLWO",
-   "devices": ["VIVO19383B0B142C9C987C0A"],
-   "expiry": "12-02-2024 12:00 PM"
-},
-  "nada0601": {
-   "password": "$2y$12$JKMmZjh/6yPrqY/tVDwynu8cIand3nJhmPtodhoZ5QY7ryiZckMx.",
-   "devices": ["M2101K7BNYBFBB82E0F51DB168"],
-   "expiry": "06-01-2024 12:00 PM"
-},
-  "wiwik612": {
-   "password": "$2y$12$FVMmfOXE6BSJhtKWj.RE3uVV3bAaM.vqia9.CBYOL/0MnOeihWqZe",
-   "devices": ["SM-A730F17DDAD5F43103A10"],
-   "expiry": "07-01-2024 12:00 PM"
-},
   "jake3737": {
    "password": "$2y$12$haATeotZoScgoj9HM12K6.zh3ZNVd8fGFh7Q0rW9vB3GdKZ25.9tq",
    "devices": ["21121119SG58CC47CCDCD6A3D9"],
@@ -53,11 +33,6 @@
    "password": "$2y$12$9ozAzz/LzssMtkaPIRCNf.6qOI5xTuGWmHpSV50mD8ftwibVw0OXO",
    "devices": ["REDMINOTE8PRO0DCDA0C6C5315CFF"],
    "expiry": "08-03-2024 12:00 PM"
- },
-  "aditcoco3": {
-   "password": "$2y$12$o/pNeipD0Psr0sgfAKNfcO32n4bni1D/LNqhcWVU9vDMwxBkTuD4G",
-   "devices": ["M2006C3MG0E37AAC209DD5943"],
-   "expiry": "30-01-2024 12:59 AM"
  },
   "denicabul": {
    "password": "$2y$12$d6OkhKPhCGy9O8/8A169JO5b4OIG2EfbQqOvDeKl8Pp3eLPpHo0IO",
