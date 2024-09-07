@@ -19,11 +19,6 @@
    "devices": ["REDMINOTE8FFD9A4C1135267AA"],
    "expiry": "30-10-2024 12:00 PM"
 },
-  "cloudyww": {
-   "password": "$2y$12$w.bYJ9/lyfCmL8drm9GH/.NGo.uR3QTTD6Of9mdIkEAlp6LdcNaNa",
-   "devices": ["23021RAA2Y39C5C918E041D136"],
-   "expiry": "25-08-2024 12:00 PM"
-},
   "gungAgung": {
    "password": "$2y$12$F6vmf1gTjfO0JzQCUc0GQuZI3uNVzTq3xmku7/2HooJ/4iJzzh.CO",
    "devices": ["SM-A226B1B8081E25234AED9"],
@@ -38,10 +33,5 @@
    "password": "$2y$12$haATeotZoScgoj9HM12K6.zh3ZNVd8fGFh7Q0rW9vB3GdKZ25.9tq",
    "devices": ["21121119SG58CC47CCDCD6A3D9"],
    "expiry": "05-09-2024 12:00 PM"
- },
-  "grabLosdoL": {
-   "password": "$2y$12$FMa0/r7cHlfwUlNtbMFgneDXzCTY7d.WdIjAT9E/s.hptKFwGN11m",
-   "devices": ["SM-A035F701A5CCE2C0C11F3","REDMINOTE8DC9F758F6E8688ED","REDMINOTE735FBD2343F69E18B","220333QAGD9893CB7E865081C","M2103K19GA11683F7F445086B"],
-   "expiry": "31-10-2022 12:00 PM"
  },
 }
