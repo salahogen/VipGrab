@@ -4,9 +4,9 @@
    "devices": ["REDMINOTE9PROCBA987F7E3D38A69"],
    "expiry": "13-01-2027 12:00 PM"
 },
-  "ayungayung": {
-   "password": "$2y$12$iq38sHHK7HbFkPC3QwKx0OWhAG4l9EmOCH4m0WeTBAR0ntRHIEKpi",
-   "devices": ["REDMINOTE53F588D84874AB0C2","TECNOLI7A50BCC1F5E17D7DB"],
+"ayungayung1": {
+   "password": "$2y$12$Ts10hIyQ6i0ue93z477k4.0c/8hNnzRdDjiSn.d5GnjVpdmdkDo6K",
+   "devices": ["TECNOLI7A50BCC1F5E17D7DB"],
    "expiry": "31-01-2025 12:00 PM"
 },
 }
