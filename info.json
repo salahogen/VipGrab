@@ -9,4 +9,9 @@
    "devices": ["TECNOLI7A50BCC1F5E17D7DB"],
    "expiry": "31-01-2025 12:00 PM"
 },
+   "resresan": {
+   "password": "$2y$12$L6eUXewvbKDt8fzYT/U6JODByw5HamZFKV/Ie6P3bXPQyUC1zW8PG",
+   "devices": ["REDMINOTE5659D5391B7ECD443"],
+   "expiry": "31-01-2025 12:00 PM"
+},
 }
